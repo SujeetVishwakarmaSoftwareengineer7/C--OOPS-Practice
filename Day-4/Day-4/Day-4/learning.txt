@@ -1,0 +1,5 @@
+better understanding of input output in c++.
+learn how to factories a number into fact.
+learn how input output work in c++.
+learn how to find factorial with a single loop.
+good understanding of loops.
