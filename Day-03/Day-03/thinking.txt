@@ -1,0 +1,5 @@
+1. Ek class banayenge.
+2. Do variables lenge (num1 aur num2).
+3. Ek function banayenge jo add karega.
+4. Main function me object banayenge.
+5. Object se function call karenge.
