@@ -1,0 +1,6 @@
+Aaj maine seekha:
+
+ Factorial ka logic
+ Loop ka use
+ Class aur object ka use
+ Function ko class me kaise use karte hain
