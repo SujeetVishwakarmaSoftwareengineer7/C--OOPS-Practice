@@ -1,0 +1,5 @@
+take a number input n.
+take a variable fact , starting was 1.
+run a loop .
+multiply both fact and i (fact*i).
+print factorial.
