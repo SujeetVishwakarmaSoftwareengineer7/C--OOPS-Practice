@@ -1,0 +1,5 @@
+take number input n.
+take a variable fact starting was 1
+run a loop .
+multiply the both (fact*i).
+print fact.
