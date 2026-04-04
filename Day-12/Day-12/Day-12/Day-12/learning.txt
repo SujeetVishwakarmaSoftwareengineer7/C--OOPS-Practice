@@ -1,3 +1,0 @@
-- Constructor base se derived order me call hota hai
-- Destructor reverse order me call hota hai
-- Inheritance code reuse ke liye use hota hai
