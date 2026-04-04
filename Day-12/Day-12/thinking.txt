@@ -1,0 +1,4 @@
+1. Base class create karunga
+2. Derived class inherit karega
+3. Constructor call order check karna hai
+4. Destructor reverse order me call hoga
