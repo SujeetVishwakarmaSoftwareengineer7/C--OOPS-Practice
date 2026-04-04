@@ -1,0 +1,4 @@
+problem:
+Topic: Inheritance, Constructor, Destructor
+
+Write a C++ program to demonstrate inheritance and show constructor and destructor call order.
