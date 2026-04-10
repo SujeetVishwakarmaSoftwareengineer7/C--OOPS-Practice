@@ -1,0 +1,5 @@
+very good and deep understanding of binary search algorithm
+realize how algo are work in sorted and unsordted array
+understand how it is very useful better than liniar search 
+her time complexity was really good 
+and last it was good better than linear search algo beacus time compleaxity matter
